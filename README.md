@@ -290,12 +290,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ![IMG_20230327_143001](https://user-images.githubusercontent.com/118423842/227895957-dad8b04c-a149-4e91-8c7a-8f03d6d114bb.jpg)
-![IMG_20230327_142959](https://user-images.githubusercontent.com/118423842/227896245-1784906f-cdc0-47c4-a49f-2798ddd5257d.jpg)
+![IMG_20230327_143001](https://user-images.githubusercontent.com/118423842/228168536-da9bd997-39f7-489c-8e42-a33927524cba.jpg)
+![IMG_20230327_142959](https://user-images.githubusercontent.com/118423842/228168691-3e35075e-6675-48c3-9f9e-b4ec5e9431eb.jpg)
 
- 
- 
- 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
